@@ -1,2 +1,2 @@
 ### Hello there ⤵
-https://greychai.github.io
+[greychai.github.io](https://greychai.github.io/)
