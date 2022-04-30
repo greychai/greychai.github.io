@@ -1,2 +1,2 @@
 ### Hello there ⤵
-https://greychai.github.io/www/
+https://greychai.github.io
